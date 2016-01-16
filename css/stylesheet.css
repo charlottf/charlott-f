@@ -1,0 +1,59 @@
+
+body {
+  text-align: center;
+  font-family: 'Open Sans';
+  font-size: 1.1em;
+  margin: 0;
+  color: #2b3132;
+  font-weight: 400;
+  line-height: 20px;
+  background-color: grey;
+}
+
+.main-nav {
+  height: 200px;
+  width: 100%;
+  background-color: white;
+}
+
+header {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  font-weight: 700;
+}
+
+h2 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.3em;
+  line-height: 1.2;
+}
+
+h1 {
+  text-align: center;
+  color: #2b3132;
+  font-weight: 400;
+}
+
+a {
+  text-align: center;
+  text-decoration: none;
+  color: #2b3132;
+}
+
+p {
+  text-align: center;
+  color: #2b3132;
+  line-height: 20px;
+}
+
+footer {
+  text-align: center;
+  min-height: 100px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
